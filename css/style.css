@@ -351,8 +351,13 @@ a:hover {
     text-align: center;
 }
 
+.footer .copyright span{
+    transition: 1s;
+}
+
 .footer .copyright:hover span {
     font-size: 15px;
+    letter-spacing: 2px;
     color: #21B573;
 }
 
