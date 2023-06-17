@@ -327,9 +327,11 @@ a:hover {
     color: #fff;
     margin: 0px 0px 5px;
     cursor: pointer;
+    transition: 1s;
 }
 
 .footer .widget ul li a:hover {
+    margin-left: 10px;
     color: #21B573;
 }
 
